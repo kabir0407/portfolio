@@ -1,0 +1,12 @@
+.card {
+  background-color: $white;
+  color: $gray-dark;
+  padding: $spacing-md;
+  border-radius: $border-radius-md;
+  box-shadow: $shadow-md;
+  transition: box-shadow $transition-normal;
+
+  &:hover {
+    box-shadow: $shadow-lg;
+  }
+}
