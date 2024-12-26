@@ -42,21 +42,37 @@ export const navLinks = [
 
 const services = [
   {
-    title: "Web Developer",
+    title: "React Js",
     icon: web,
   },
   {
-    title: "React Native Developer",
+    title: "React Native ",
     icon: mobile,
   },
   {
-    title: "Backend Developer",
-    icon: backend,
+    title: "Next Js ",
+    icon: web,
   },
-  {
-    title: "Content Creator",
-    icon: creator,
-  },
+  // {
+  //   title: "Redux",
+  //   icon: creator,
+  // },
+  // {
+  //   title: "Tailwind",
+  //   icon: creator,
+  // },
+  // {
+  //   title: "Prime React",
+  //   icon: creator,
+  // },
+  // {
+  //   title: "React Bootstrap",
+  //   icon: creator,
+  // },
+  // {
+  //   title: "D3.js",
+  //   icon: creator,
+  // },
 ];
 
 const technologies = [
