@@ -21,7 +21,7 @@ const useIsMobile = () => {
 };
 
 const Computers = ({ isMobile }) => {
-  const { scene } = useGLTF("./pc_new/scene.gltf");
+  const { scene } = useGLTF("./desktop_pc/scene.gltf");
 
   return (
     <mesh>
